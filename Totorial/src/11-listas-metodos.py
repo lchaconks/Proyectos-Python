@@ -5,4 +5,4 @@ lenguajes.remove("Ruby")  #Remover un dato especifico
 print("PHP" in lenguajes)  #(in) para buscar un dato dentro de la variable
 # lenguajes.clear()
 
-#print(lenguajes)
+print(len(lenguajes))
